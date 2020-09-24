@@ -16,4 +16,4 @@ Tambahkan nama dan link profil anda dibawah ini dengan cara:
 - [Daffa Daraz](https://github.com/daffadaraz)
 - [Syafri Wira Wicaksana](https://github.com/wirasyafri)
 - [Alim Abdul Jabbar](https://github.com/liimalim)
-- [Heikal Syah Shiddiq](https://github.com/SlavyanDesu/)
+- [Heikal Syah Shiddiq](https://github.com/SlavyanDesu)
